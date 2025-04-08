@@ -1,0 +1,9 @@
+name: "BetterTracking"
+version: "1.0"
+main: "vb.$bettertracking.PluginMain"
+api-version: 1.13
+authors: [ItsMingolino]
+description: "Track a player without any compass"
+commands:
+  track:
+permissions:
