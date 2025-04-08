@@ -1,6 +1,6 @@
 # BetterTracking
 
-A Minecraft plugin that allows players to track others using directional indicators and optional distance display. Built for Paper 1.13+.
+A Minecraft plugin that allows players to track others using directional indicators and optional distance display. Built for Spigot 1.13+.
 
 ---
 
